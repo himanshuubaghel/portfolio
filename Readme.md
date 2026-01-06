@@ -1,6 +1,7 @@
 # 🚀 Himanshu Baghel | Developer Portfolio
 
 A clean, minimal, and beginner-friendly developer portfolio with a unique **Sketchpad / Handwritten theme**.
+![Portfolio Screenshot](screenshot.jpeg)
 
 ## ✨ Features
 - **Loop Typing Effect**: Dynamic name typing animation for "Himanshu Baghel".
